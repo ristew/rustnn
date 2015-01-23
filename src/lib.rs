@@ -1,2 +1,5 @@
+use std::collections::VecMap;
+
 mod neuron;
-mod layer;
+mod node;
+pub mod neuralnet;

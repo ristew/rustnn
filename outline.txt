@@ -1,0 +1,3 @@
+neural network based on nodes
+network -> nodes
+nodes -> neurons
